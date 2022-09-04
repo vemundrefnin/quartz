@@ -1,8 +1,11 @@
 # SAS Lab 1 Charts
-![[Pasted image 20220831184910.png]]
 
-![[Pasted image 20220831185109.png]]
-![[Pasted image 20220831185639.png]]
+![](attachments/Pasted%20image%2020220904001906.png)
 
-![[Pasted image 20220831185850.png]]
-![[Pasted image 20220831190138.png]]![[Pasted image 20220831190657.png]]![[Pasted image 20220831190803.png]]
+![](attachments/Pasted%20image%2020220904001935.png)
+![Pasted image 20220831185639.png](attachments/Pasted%20image%2020220831185639.png)
+
+![](attachments/Pasted%20image%2020220904123809.png)
+
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.06.49.png)
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.07.54.png)

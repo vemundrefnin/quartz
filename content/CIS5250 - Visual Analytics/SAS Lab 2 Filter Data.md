@@ -1,7 +1,7 @@
 # SAS Lab 2 Filter Data
-![[Pasted image 20220831192942.png]]
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.29.32.png)
 
-![[Pasted image 20220831193518.png]]
-![[Pasted image 20220831193649.png]]
-![[Pasted image 20220831194124.png]]
-![[Pasted image 20220831194709.png]]
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.35.06.png)
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.36.42.png)
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.41.17.png)
+![](attachments/Screen%20Shot%202022-08-31%20at%2019.47.02.png)
