@@ -96,3 +96,6 @@ Weekly labs are counted toward the overall class grade as indicated in the Sylla
 | <u>Week-14: Nov 30</u> | Alle                                          |
 | <u>Week-15: Dec 5</u>  | Alle                                          |
 | Week-16: Dec 12        | Ivar                                          |
+
+# Related
+[[CIS5250 - Visual Analytics/Data Visualization Context]]
