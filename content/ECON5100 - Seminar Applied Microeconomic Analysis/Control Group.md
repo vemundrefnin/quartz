@@ -1,6 +1,6 @@
 ---
 title: "Control Group"
 tags:
-- #econ5100 
+- econ5100
 ---
 # Control Group
